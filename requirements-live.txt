@@ -1,0 +1,16 @@
+# Private-message features only; demo/UI use Python's standard library.
+beautifulsoup4
+cryptography
+ecdsa
+loguru
+python-dotenv
+qrcode[pil]
+requests
+retry
+urllib3
+websocket-client
+curl_cffi
+protobuf>=5.27
+playwright>=1.64,<2
+
+pillow-heif==1.8.1
